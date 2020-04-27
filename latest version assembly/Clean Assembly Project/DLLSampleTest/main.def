@@ -1,0 +1,24 @@
+EXPORTS
+readBoards @1
+readingProcess @2
+copyToArray @3
+loadIndeces @4
+saveBoard @5
+moveArrToBuffer @6
+writingProcess @7
+RandomBoard @8
+check @9
+getrightCount @10
+getwrongCount @11
+getstepsToFinish @12
+solve @13
+clearboard @14
+clearReport @15
+startTimer @16
+stopTimer @17
+updateTime @18
+getMins @19
+getS @20
+savereport @21
+loadreport @22
+plotloaded @23
